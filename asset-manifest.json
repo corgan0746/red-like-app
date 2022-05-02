@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/red-like-app/static/css/main.0a0176db.css",
+    "main.js": "/red-like-app/static/js/main.df0af734.js",
+    "index.html": "/red-like-app/index.html",
+    "main.0a0176db.css.map": "/red-like-app/static/css/main.0a0176db.css.map",
+    "main.df0af734.js.map": "/red-like-app/static/js/main.df0af734.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0a0176db.css",
+    "static/js/main.df0af734.js"
+  ]
+}
